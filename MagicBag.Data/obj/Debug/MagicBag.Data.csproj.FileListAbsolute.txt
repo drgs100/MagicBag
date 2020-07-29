@@ -1,0 +1,6 @@
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\bin\Debug\MagicBag.Data.dll
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\bin\Debug\MagicBag.Data.pdb
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\obj\Debug\MagicBag.Data.csprojAssemblyReference.cache
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\obj\Debug\MagicBag.Data.csproj.CoreCompileInputs.cache
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\obj\Debug\MagicBag.Data.dll
+C:\Users\damias01\source\repos\WorkAlong.MagicBag\MagicBag.Data\obj\Debug\MagicBag.Data.pdb
