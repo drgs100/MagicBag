@@ -1,6 +1,5 @@
 ﻿using System.Configuration;
 using System.Web.Mvc;
-using System.Web.Services.Description;
 using MagicBag.Models;
 
 namespace MagicBag.Controllers
@@ -11,8 +10,8 @@ namespace MagicBag.Controllers
         public ActionResult Index()
         {
             var model = new GreetingViewModel();
-            model.Message = ConfigurationManager.AppSettings["message"];
-            return View();
+            model.Message = ConfigurationManager.AppSettings["Message"];
+            return View(model);
         }
     }
 }
